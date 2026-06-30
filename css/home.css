@@ -1,0 +1,28 @@
+body {
+  background: #000;
+}
+
+.home {
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.video-section {
+  max-width: 1340px;
+  margin: 0 auto;
+}
+
+.video-section video {
+  width: 100%;
+  display: block;
+}
+
+.message-link {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.message-link a {
+  color: white;
+  font-size: 1.2rem;
+}
