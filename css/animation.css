@@ -1,0 +1,15 @@
+.modal-content {
+  animation: zoom 0.25s ease;
+}
+
+@keyframes zoom {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
